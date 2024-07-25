@@ -11,6 +11,9 @@ TON Explorer https://tonviewer.com/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I
 
 DYOR аналитическая платформа блокчейна TON https://dyor.io/ru/token/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
 
+Swap iHMSTR/TON DeDust.io https://dedust.io/swap/TON/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?amount=1000000000
+Swap iHMSTR/TON STON.fi https://app.ston.fi/swap?ft=TON&tt=EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa&chartVisible=false&fa=1
+
 <p align="center">
   <img src="https://github.com/js2028497/iHamsterKombat/blob/main/iHMSTR.png">
 </p>

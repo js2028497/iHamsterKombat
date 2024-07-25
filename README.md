@@ -7,8 +7,6 @@ Make your way from the shaved hamster to the grandmaster CEO of the tier-1 crypt
 iHamster Kombat-iHMSTR-TON-Contract 
 https://minter.ton.org/jetton/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
 
-TON Explorer https://tonviewer.com/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?section=jetton
-
 DYOR аналитическая платформа блокчейна TON https://dyor.io/ru/token/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
 
 Swap iHMSTR/TON DeDust.io https://dedust.io/swap/TON/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?amount=1000000000

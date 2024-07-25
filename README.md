@@ -9,7 +9,7 @@ https://minter.ton.org/jetton/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
 
 TON Explorer https://tonviewer.com/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?section=jetton
 
-https://dyor.io/ru/token/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
+DYOR аналитическая платформа блокчейна TON https://dyor.io/ru/token/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
 
 <p align="center">
   <img src="https://github.com/js2028497/iHamsterKombat/blob/main/iHMSTR.png">

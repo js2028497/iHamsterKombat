@@ -6,4 +6,6 @@ Make your way from the shaved hamster to the grandmaster CEO of the tier-1 crypt
 
 21 Quintillion
 
-https://tonviewer.com/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?section=jetton
+iHamster Kombat-iHMSTR-TON-Contract https://minter.ton.org/jetton/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa
+
+TON Explorer https://tonviewer.com/EQCGQ8rRHBsRDFD5eCf7C_7R2blR1oX3fkOxN2b53Fo9I3qa?section=jetton
